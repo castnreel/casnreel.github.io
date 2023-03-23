@@ -1,0 +1,41 @@
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#B84767;
+  }
+  body{
+    background-color:#f7a4bf ;
+  }
+  h2{
+   
+    color: #B74879;
+  }
+  img{
+    border-style: ridge ;
+    border-color:#0cdd86 ;
+  }
+  .nocss{
+    border-color: #f7a4bf;
+    border-style: none;
+  }
+  h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+  }
+  p{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:#B84767;
+  }
+  .moveright{
+    margin-left: 400px;
+    
+  }
+  iframe{
+    border-style: ridge;
+    border-width: 10px;
+  }
+  ul{
+    color: #4b1e2b;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
